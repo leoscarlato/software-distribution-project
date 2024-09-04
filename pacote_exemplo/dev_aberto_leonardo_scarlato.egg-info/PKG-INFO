@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: dev_aberto_leonardo_scarlato
+Version: 0.1
+Author: Leonardo Scarlato
+Author-email: leonardos15@al.insper.edu.br
+License-File: LICENSE
+Requires-Dist: requests==2.31.0
